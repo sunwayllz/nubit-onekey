@@ -23,6 +23,8 @@ rm -rf .nubit-light-nubit-alphatestnet-1
 rm -rf nubit-address.txt
 rm -rf nubit-mnemonic.txt
 rm -rf nubit-publicKey.txt
+rm -rf nubit-node.log
+rm -rf .nubit-validator
 
 
 # 直接下nubit节点安装包，跳过官方脚本中的检查系统版本、md5等操作
